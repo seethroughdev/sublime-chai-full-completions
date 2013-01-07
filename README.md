@@ -20,5 +20,10 @@ Install with [Sublime Package Control](http://wbond.net/sublime_packages/package
 or without Sublime Package Control:
 
 ```
-git clone https://github.com/pensive612/sublime-chai-full-completions.git
+cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+git clone git://github.com/pensive612/sublime-chai-full-completions.git
 ```
+restart Sublime Text and you're good to go.
+
+
+Improvements and suggestions are welcome...
