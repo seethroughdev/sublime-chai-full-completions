@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-describe('${1:suite}', function() {
-  $2
+describe('${1:suite}', function () {
+	$2
 });$0
 ]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
