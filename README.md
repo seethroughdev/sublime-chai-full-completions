@@ -9,13 +9,13 @@ You can read the [full API for chai syntax](http://chaijs.com/api/).
 
 The completions work in both Javascript and [CoffeeScript](http://coffeescript.org/).
 
-Alternately, you can use [pahen's Assert completions ](https://github.com/pahen/sublime-chai-completions) if you're not interested in any of the BDD syntax.
+This package was merged with [pahen's](https://github.com/pahen/) package in Sublime Package Control.
 
 ### Installation
 Install with [Sublime Package Control](http://wbond.net/sublime_packages/package_control) if possible.
 - Super + Shift + P
 - Install Package
-- Chai Full Completions
+- Chai Completions
 
 or without Sublime Package Control:
 
