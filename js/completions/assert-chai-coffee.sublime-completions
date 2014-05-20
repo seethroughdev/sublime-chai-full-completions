@@ -41,7 +41,7 @@
     { "trigger": "assert.notProperty", "contents": "assert.notProperty(${1:object}, ${2:property}${3:, \"${4:[message]}\"});$0"},
     { "trigger": "assert.deepProperty", "contents": "assert.deepProperty(${1:object}, ${2:property}${3:, \"${4:[message]}\"});$0"},
     { "trigger": "assert.notDeepProperty", "contents": "assert.notDeepProperty(${1:object}, ${2:property}${3:, \"${4:[message]}\"});$0"},
-    { "trigger": "assert.propertyVal", "contents": "assert.notDeepProperty(${1:object}, ${2:property}, ${3:value}${4:, \"${5:[message]}\"});$0"},
+    { "trigger": "assert.propertyVal", "contents": "assert.propertyVal(${1:object}, ${2:property}, ${3:value}${4:, \"${5:[message]}\"});$0"},
     { "trigger": "assert.propertyNotVal", "contents": "assert.propertyNotVal(${1:object}, ${2:property} ${3:value}${4:, \"${5:[message]}\"});$0"},
     { "trigger": "assert.deepPropertyVal", "contents": "assert.deepPropertyVal(${1:object}, ${2:property} ${3:value}${4:, \"${5:[message]}\"});$0"},
     { "trigger": "assert.deepPropertyNotVal", "contents": "assert.deepPropertyNotVal(${1:object}, ${2:property}, ${3:value}${4:, \"${5:[message]}\"});$0"},
