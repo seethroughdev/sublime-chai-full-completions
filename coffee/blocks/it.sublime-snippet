@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-it "${1:expectation}", ->
-	$2
+it "${1:expectation}", ${3:(${2:done})} ->
+	$4
 ]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>it</tabTrigger>
