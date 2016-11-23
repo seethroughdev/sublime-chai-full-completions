@@ -1,0 +1,19 @@
+{
+  "name": "sublime-chai-full-completions",
+  "version": "1.0.0",
+  "description": "Chai completions for Sublime Text 2 / 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seethroughtrees/sublime-chai-full-completions.git"
+  },
+  "author": "seethroughtrees",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seethroughtrees/sublime-chai-full-completions/issues"
+  },
+  "homepage": "https://github.com/seethroughtrees/sublime-chai-full-completions#readme"
+}

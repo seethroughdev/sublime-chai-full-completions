@@ -21,7 +21,7 @@ or without Sublime Package Control:
 
 ```
 cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
-git clone git://github.com/pensive612/sublime-chai-full-completions.git
+git clone git://github.com/seethroughtrees/sublime-chai-full-completions.git
 ```
 restart Sublime Text and you're good to go.
 
